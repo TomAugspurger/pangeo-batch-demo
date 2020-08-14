@@ -1,0 +1,7 @@
+.cache/
+.config/
+.ipython/
+.jupyter/
+.lesshst
+.local/
+.npm/
